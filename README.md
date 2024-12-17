@@ -10,7 +10,11 @@ a simple program written in c that creates a simple ascii maze based on a given 
 
 ## Spell Checker
 
+[SHORT DESCRIPTION]
+
 ## Word Seperator
+
+[SHORT DESCRIPTION]
 
 ## Data Compression
 
