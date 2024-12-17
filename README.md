@@ -6,3 +6,4 @@ a simple program written in c that aid in finding and returning the right amount
 
 ## Maze Generator 
 
+a simple program written in c that creates a simple ascii maze based on a given input. 
