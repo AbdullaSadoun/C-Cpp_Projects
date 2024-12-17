@@ -1,5 +1,5 @@
-# List of my personal projects and programs written in C
-
+# Description
+List of some personal mini projects and programs that I have completed to learn various concepts
 
 ## C Projects 
 List of Various mini Projects I created when learning System Analysis, C and fundamental concepts like data compression saving between runs etc.
