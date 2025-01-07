@@ -15,7 +15,7 @@ List of Various mini Projects I created when learning System Analysis, C and fun
 
 ## Operating Systems (C)
 List of Softwares I made to aid in understanding fundamental Operating System Concepts like task scheduling, using mutex and semaphores etc.
-- Basic Linux CLI: [SHORT DESCRIPTION]
+- Basic Linux CLI: Short Project to [SHORT DESCRIPTION]
 - CPU Scheduler: [SHORT DESCRIPTION]
 - Multithreading: [SHORT DESCRIPTION]
 - Synchronization: [SHORT DESCRIPTION]
