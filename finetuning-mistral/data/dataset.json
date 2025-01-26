@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "text": "Question: What is machine learning?\nAnswer: Machine learning is a branch of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed. It focuses on developing computer programs that can access data and use it to learn for themselves."
+        },
+        {
+            "text": "Question: How does supervised learning work?\nAnswer: Supervised learning is a type of machine learning where the model learns from labeled training data. The algorithm is trained on a dataset where the correct output is already known, allowing it to learn patterns and relationships between inputs and outputs."
+        },
+        {
+            "text": "Question: Explain what deep learning is.\nAnswer: Deep learning is a subset of machine learning that uses artificial neural networks with multiple layers (deep neural networks) to progressively extract higher-level features from raw input. It's particularly powerful for complex tasks like image and speech recognition."
+        }
+    ]
+}
