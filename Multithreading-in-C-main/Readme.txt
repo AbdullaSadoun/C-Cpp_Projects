@@ -1,4 +1,6 @@
-Abdulla Saodun B00900541
+Abdulla Saodun B00900541\
+A3 OS
+
 
 Purpose
 Utilize multithreading in c to create a program to read a list of integers from a file, split them and sort them parallely then merge them. 
